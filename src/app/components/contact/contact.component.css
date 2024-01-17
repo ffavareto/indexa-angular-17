@@ -1,0 +1,23 @@
+.contact ul {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 0;
+}
+
+.contact ul li {
+  color: #212529;
+  font-family: 'Montserrat';
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+  list-style: none;
+}
+
+.contact ul li button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
